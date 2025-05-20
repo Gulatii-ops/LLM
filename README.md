@@ -5,14 +5,22 @@
 Here we build a tool that infers important and relevant information for a product, creates a marketing brochure for the product, and translates the brochure to another language (based on user input).
 
 Example output is shown here:
+
+### 1. Brochure- English Version
+![Alt text](gallery/BrochureEng.png)
+
+### 2. Brochure- Translated Version
+![Alt text](gallery/BrochureGerman.png)
+
+### Gradio Visualization
  ### 1.
- ![Alt text](brochure1.png)
+ ![Alt text](gallery/brochure1.png)
 
 ### 2.
- ![Alt text](brochure2.png)
+ ![Alt text](gallery/brochure2.png)
 
  ### 3.
- ![Alt text](brochure3.png)
+ ![Alt text](gallery/brochure3.png)
 
 
 ## Project - Airline AI Assistant
@@ -22,16 +30,16 @@ The UI displays a vibrant image representing the city you want to book flights f
 
 Example output is shown here:
  ### 1.
- ![Alt text](flightai1.png)
+ ![Alt text](gallery/flightai1.png)
 
 ### 2.
- ![Alt text](flightai2.png)
+ ![Alt text](gallery/flightai2.png)
 
  ### 3.
- ![Alt text](flightai3.png)
+ ![Alt text](gallery/flightai3.png)
 
  ### 4.
- ![Alt text](flightai4.png)
+ ![Alt text](gallery/flightai4.png)
 
 
  ## Project - Speech to Text Converter
@@ -40,4 +48,4 @@ Here we take audio input and convert speech to text, and back to speech in langu
 
 Example output is shown here:
  ### 1.
- ![Alt text](speech2text.png)
+ ![Alt text](gallery/speech2text.png)
