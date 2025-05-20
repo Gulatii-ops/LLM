@@ -10,7 +10,7 @@ Example output is shown here:
 ![Alt text](gallery/BrochureEng.png)
 
 ### 2. Brochure- Translated Version
-![Alt text](gallery/BrochureGerman.png)
+![Alt text](gallery/brochureGerman.png)
 
 ### Gradio Visualization
  ### 1.
