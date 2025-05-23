@@ -1,5 +1,15 @@
 # Project on LLMs
 
+## 📌 Table of Contents
+
+- [Project on LLMs](#project-on-llms)
+  - [Marketing Brochure](#project---marketing-brochure)
+  - [Gradio Visualization](#gradio-visualization)
+- [Project - Airline AI Assistant](#project---airline-ai-assistant)
+- [Project - Speech to Text Converter](#project---speech-to-text-converter)
+- [Project - Dataset Generator](#project---dataset-generator)
+
+
 ### Project - Marketing Brochure
 
 Here we build a tool that infers important and relevant information for a product, creates a marketing brochure for the product, and translates the brochure to another language (based on user input).
@@ -7,7 +17,7 @@ Here we build a tool that infers important and relevant information for a produc
 Example output is shown here:
 
 ### 1. Brochure- English Version
-![Alt text](gallery/BrochureEng.png)
+<img src="gallery/BrochureEng.png" class="image-bordered" alt="Brochure English"/>
 
 ### 2. Brochure- Translated Version
 ![Alt text](gallery/brochureGerman.png)
@@ -54,7 +64,7 @@ Example output is shown here:
 Here we create a dataset generator that uses instruct LLMs, providing a variety of models to choose from. The generator has some input requirements: Topic of the dataset, 3 examples in the format {Instruction: ,Response: } for multi-shot prompting, and the size of the output dataset.
 
 Example output is shown here:
- ### Input Prompt 1
+ ### Input Prompt 1                                         # Here output datasize is wrong take ss again
  ![Alt text](gallery/dataset_gen_prompt.png)
 
  ### 1. Output from Meta llama 3.1 Instruct model
@@ -72,7 +82,7 @@ Example output is shown here:
  ### 5. Output from HuggingFace Zephyr-7B-β model
  ![Alt text](gallery/dataset_gen_huggingface_output.png)
 
-**Inference:** Seems like the HuggingFace model was able to give the best result for this prompt, with brief explanation to the approach to solve the python programs and also looks visually appealing. While Gemma wasn't able to comprehend this prompt completely, it produced a python function incorporating the example prompts and 2 additional prompts to fulfill the dataset size settings. However, Gemma performs pretty well on another prompt which wasn't coding based (see pictures below). 
+**Inference:** Seems like the HuggingFace model was able to give the best result for this prompt, with brief explanation to the approach to solve the python programs. It also looks visually appealing. While Gemma wasn't able to comprehend this prompt completely, it produced a python function incorporating the example prompts and 2 additional prompts to fulfill the dataset size settings. However, Gemma performs pretty well on another prompt which wasn't coding based (see pictures below). 
 Depending on your use-case, you can explore different models from the HuggingFace library and choose the one that best suits your needs.
 
  ### Input Prompt 1
