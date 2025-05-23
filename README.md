@@ -3,36 +3,35 @@
 ## 📌 Table of Contents
 
 - [Project on LLMs](#project-on-llms)
-  - [Marketing Brochure](#project---marketing-brochure)
-  - [Gradio Visualization](#gradio-visualization)
-- [Project - Airline AI Assistant](#project---airline-ai-assistant)
-- [Project - Speech to Text Converter](#project---speech-to-text-converter)
-- [Project - Dataset Generator](#project---dataset-generator)
+- [Marketing Brochure](#marketing-brochure)
+- [Airline AI Assistant](#airline-ai-assistant)
+- [Speech to Text Converter](#speech-to-text-converter)
+- [Dataset Generator](#dataset-generator)
 
 
-### Project - Marketing Brochure
+### Marketing Brochure
 
 Here we build a tool that infers important and relevant information for a product, creates a marketing brochure for the product, and translates the brochure to another language (based on user input).
 
 Example output is shown here:
 
 ### 1. Brochure- English Version
-<img src="gallery/BrochureEng.png" class="image-bordered" alt="Brochure English"/>
+![Alt text](gallery/BrochureEng.png)
 
 ### 2. Brochure- Translated Version
-<img src="gallery/brochureGerman.png" class="image-bordered" alt="Brochure German"/>
+![Alt text](gallery/brochureGerman.png)
 
 ### Gradio Visualization
- ### 1.
- <img src="gallery/brochure1.png" class="image-bordered" alt="Brochure German"/>
+### 1.
+![Alt text](gallery/brochure1.png)
 
 ### 2.
- ![Alt text](gallery/brochure2.png)
+![Alt text](gallery/brochure2.png)
 
- ![Alt text](gallery/brochure3.png)
+![Alt text](gallery/brochure3.png)
 
 
-## Project - Airline AI Assistant
+## Airline AI Assistant
 
 Here we create a simple AI Customer Support assistant for an Airline, which simulates booking flights, and translates the conversation in language of choice. Some extra special features about this project are, that it uses "Tools", image generation, and voice assitance. Tools are an incredibly powerful feature provided by the frontier LLMs. With tools, you can write a function, and have the LLM call that function as part of its response. 
 The UI displays a vibrant image representing the city you want to book flights for. 
@@ -51,7 +50,7 @@ Example output is shown here:
  ![Alt text](gallery/flightai4.png)
 
 
- ## Project - Speech to Text Converter
+ ## Speech to Text Converter
 
 Here we take audio input and convert speech to text, and back to speech in language of choice.
 
@@ -59,7 +58,7 @@ Example output is shown here:
  ### 1.
  ![Alt text](gallery/speech2text.png)
 
-## Project - Dataset Generator
+## Dataset Generator
 
 Here we create a dataset generator that uses instruct LLMs, providing a variety of models to choose from. The generator has some input requirements: Topic of the dataset, 3 examples in the format {Instruction: ,Response: } for multi-shot prompting, and the size of the output dataset.
 
