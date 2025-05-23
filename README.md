@@ -20,11 +20,11 @@ Example output is shown here:
 <img src="gallery/BrochureEng.png" class="image-bordered" alt="Brochure English"/>
 
 ### 2. Brochure- Translated Version
-![Alt text](gallery/brochureGerman.png)
+<img src="gallery/brochureGerman.png" class="image-bordered" alt="Brochure German"/>
 
 ### Gradio Visualization
  ### 1.
- ![Alt text](gallery/brochure1.png)
+ <img src="gallery/brochure1.png" class="image-bordered" alt="Brochure German"/>
 
 ### 2.
  ![Alt text](gallery/brochure2.png)
