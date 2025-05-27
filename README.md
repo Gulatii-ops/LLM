@@ -7,7 +7,7 @@
 - [Airline AI Assistant](#airline-ai-assistant)
 - [Speech to Text Converter](#speech-to-text-converter)
 - [Dataset Generator](#dataset-generator)
-- [Python Code Assistant] (#python-code-assistant)
+- [Python Code Assistant](#python-code-assistant)
 
 
 ### Marketing Brochure
