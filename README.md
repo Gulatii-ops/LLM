@@ -8,6 +8,7 @@
 - [Speech to Text Converter](#speech-to-text-converter)
 - [Dataset Generator](#dataset-generator)
 - [Python Code Assistant](#python-code-assistant)
+- [Expert Knowledge Worker](#rag-based-expert-knowledge-worker)
 
 
 ### Marketing Brochure
@@ -105,3 +106,9 @@ Example output:
  #### 3. Generate unit tests
  ![Alt text](assets/gen_unittests.png)
 
+## RAG based Expert Knowledge Worker
+
+Built using Langchain to implement Retrieval Augmented Generation pipeline, to create a smart knowledge worker capable of giving accurate information about the underlying (external) knowledge base.
+
+Example output:
+![Alt text](assets/knowledge_worker.png)
