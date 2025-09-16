@@ -5,16 +5,16 @@ The UI displays a vibrant image representing the city you want to book flights f
 
 Example output:
  #### 1.
- ![Alt text](assets/flightai1.png)
+ ![Alt text](../assets/flightai1.png)
 
  #### 2.
- ![Alt text](assets/flightai2.png)
+ ![Alt text](../assets/flightai2.png)
 
  #### 3.
- ![Alt text](assets/flightai3.png)
+ ![Alt text](../assets/flightai3.png)
 
  #### 4.
- ![Alt text](assets/flightai4.png)
+ ![Alt text](../assets/flightai4.png)
 
 
  ## Speech to Text Converter
@@ -23,5 +23,5 @@ Here we take audio input and convert speech to text, and back to speech in langu
 
 Example output:
  #### 1.
- ![Alt text](assets/speech2text.png)
+ ![Alt text](../assets/speech2text.png)
 
