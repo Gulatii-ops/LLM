@@ -5,4 +5,4 @@ Built using Langchain to implement Retrieval Augmented Generation pipeline, to c
 (The example below uses a dataset on football available under LLM/assets)
 
 Example output:
-![Alt text](assets/knowledge_worker.png)
+![Alt text](../assets/knowledge_worker.png)

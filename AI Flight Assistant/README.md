@@ -16,12 +16,3 @@ Example output:
  #### 4.
  ![Alt text](../assets/flightai4.png)
 
-
- ## Speech to Text Converter
-
-Here we take audio input and convert speech to text, and back to speech in language of choice.
-
-Example output:
- #### 1.
- ![Alt text](../assets/speech2text.png)
-

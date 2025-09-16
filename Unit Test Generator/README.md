@@ -5,10 +5,10 @@ Built using Python and Gradio, the tool allows users to input Python code and pr
 Example output:
 
  #### 1. Execute program
- ![Alt text](assets/run_py.png)
+ ![Alt text](../assets/run_py.png)
 
  #### 2. Generate comments
- ![Alt text](assets/gen_comments.png)
+ ![Alt text](../assets/gen_comments.png)
 
  #### 3. Generate unit tests
- ![Alt text](assets/gen_unittests.png)
+ ![Alt text](../assets/gen_unittests.png)
