@@ -3,7 +3,7 @@
 Here we create a dataset generator that uses instruct LLMs, providing a variety of models to choose from. The generator has some input requirements: Topic of the dataset, 3 examples in the format {Instruction: ,Response: } for multi-shot prompting, and the size of the output dataset.
 
 Example output:
- #### Input Prompt 1
+ #### Input Prompt 2
  ![Alt text](../assets/dataset_gen_prompt.png)
 
  #### 1. Output from Meta llama 3.1 Instruct model
